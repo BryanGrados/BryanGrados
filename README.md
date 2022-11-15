@@ -12,7 +12,7 @@
 
 <div>
   <ul>
-    <li>Information about my career and me!🖐️</li>
+    <li>Information about me!🖐️</li>
     <li>My skills 🥷</li>
     <li>What I love to do 😎</li>
     <li>Personal and school projects ⌨️</li>
@@ -21,12 +21,8 @@
 </div>
 
 <div>
-  <h2>About my career and some personal history...</h2>
+  <h2>About me</h2>
   <p>Hi, I'm <b>Bryan Grados</b>, also known to friends as <b>Zamas</b>.</p>
-  <p> I started with the world of programming during the <b>COVID-19</b> pandemic, spending so much time isolated...so I decided to <b>learn</b> in a self-taught way but I didn't know what!</p>
-  <p>So I decided to start a project in <b>Minecraft</b>, if so it is in the famous game of cubes, I decided first to create plug-ins in <b>Java</b> to test it with friends.</p>
-  <p>Over time I began to become more interested in the world of (codes) giving me a clear view of what I really wanted, from there I started to learn where everyone should start <b>HTML</b>, <b>CSS</b>.</p>
-  <p>After a year, thanks to my brother, I was able to complement these advances in a <b>Higher Institute (Cibertec)</b> in the <b>Computing and Informatics</b> career, which today I am constantly learning to obtain my maximum performance 😎.</p>
   <p>My goal is to be able to understand any <b>programming language</b> and be able to develop it in future projects!</p>
 </div>
 
